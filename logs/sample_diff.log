@@ -1,0 +1,12 @@
+--- /dev/fd/63	2022-07-24 04:29:14.635761300 +0000
++++ /dev/fd/62	2022-07-24 04:29:14.635761300 +0000
+@@ -1,4 +1,6 @@
+ あいうえお
++ddddddddd
+ かきくけこ
+ さしすせそ
+-たちつてと
+\ No newline at end of file
++たちつてと
++ddddddddd
+\ No newline at end of file
